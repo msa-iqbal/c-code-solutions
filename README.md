@@ -6,7 +6,7 @@ This repository showcases my journey in practicing and mastering C through vario
 ### What's Inside
 
 - Each file contains a standalone solution.
-- Organized by topics like arrays, strings, algorithms, etc.
+- Organized by topics like conditions, functions, arrays, strings, etc.
 - Well-commented code for better understanding.
 
 ### Topics Covered
