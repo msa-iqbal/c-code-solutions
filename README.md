@@ -16,7 +16,7 @@ This repository showcases my journey in practicing and mastering C through vario
 - Functions and Recursion
 - Arrays and Strings
 - Pointers and Dynamic Memory
-- File System, etc.
+- File System and others
 
 ### Getting Started
 
